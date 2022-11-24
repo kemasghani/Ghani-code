@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghani-code
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently working as front end developer using reactJS
 - 💞️ I’m looking to collaborate on develop usefull web
 - 📫 How to reach me (no : 085217862489, instagram : @ghani_kemas)
 
